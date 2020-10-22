@@ -109,7 +109,7 @@ export default () => {
             <SVG src={GithubIcon} />
           </a>
           <h1>Hi! I'm Catherine</h1>
-          <h2>Front end web developer <a href="https://twitter.com/Mail_Gun" target="_blank" rel="noreferrer">@mailgun</a>, previously @rackspace. I love all things web that are modern, fast, and pretty. Just tryna keep it cute on the web and irl.</h2>
+          <h2>Front end web developer <a href="https://www.mailgun.com/" target="_blank" rel="noreferrer">@mailgun</a>, previously @rackspace. I love all things web that are modern, fast, and pretty. Just tryna keep it cute on the web and irl.</h2>
         </div>
       </Section>
 
