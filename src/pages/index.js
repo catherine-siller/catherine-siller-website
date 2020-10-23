@@ -4,6 +4,8 @@ import {Helmet} from "react-helmet";
 import SVG from 'react-inlinesvg'
 import BlogRoll from '../components/BlogRoll'
 import GithubIcon from '../assets/svg/github.svg'
+import LinkedinIcon from '../assets/svg/linkedin.svg'
+import TwitterIcon from '../assets/svg/twitter.svg'
 import favicon from '../assets/images/favicon.ico'
 
 const TopLine = styled.div`
@@ -44,6 +46,10 @@ const Section = styled.section`
 
     > a:hover {
       animation: omg 3s infinite;
+    }
+
+    .icon {
+      margin-right: 8px;
     }
 
     @-webkit-keyframes omg {
@@ -105,11 +111,14 @@ export default () => {
             alt="Catherine Siller"
             src={require('../assets/images/avatar.png')}
           />
-          <a href="https://github.com/cathysiller" target="_blank" rel="noreferrer" title="My GitHub" aria-label="My GitHub">
+          <a href="https://github.com/cathysiller" class="icon" target="_blank" rel="noreferrer" title="My GitHub" aria-label="My GitHub">
             <SVG src={GithubIcon} />
           </a>
+          <a href="https://www.linkedin.com/in/catherinesiller/" target="_blank" rel="noreferrer" title="My Linkedin" aria-label="Linkedin">
+            <SVG src={LinkedinIcon} />
+          </a>
           <h1>Hi! I'm Catherine</h1>
-          <h2>Front end web developer <a href="https://twitter.com/Mail_Gun" target="_blank" rel="noreferrer">@mailgun</a>, previously @rackspace. I love all things web that are modern, fast, and pretty. Just tryna keep it cute on the web and irl.</h2>
+          <h2>Front end web developer <a href="https://www.mailgun.com/" target="_blank" rel="noreferrer">@mailgun</a>, previously @rackspace. I love all things web that are modern, fast, and pretty. Just tryna keep it cute on the web and irl.</h2>
         </div>
       </Section>
 
