@@ -1,7 +1,7 @@
 ---
 path: /intentional-work-from-home-space
 date: 2020-10-29T01:46:27.689Z
-title: 'Working From Home Space, Intentionally'
+title: Intentional Work From Home Space
 ---
 Many of us have migrated from the offices to our homes amidst the covid pandemic, making our homes not the place to get away from work but the place to do all the things from.
 
