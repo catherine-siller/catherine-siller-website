@@ -1,5 +1,5 @@
 ---
-path: /work-from-home-space-cute-and-intentional
+path: /intentional-work-from-home-space
 date: 2020-10-29T01:46:27.689Z
 title: 'Working From Home Space, Intentionally'
 ---
@@ -7,9 +7,9 @@ Many of us have migrated from the offices to our homes amidst the covid pandemic
 
 ![](assets/IMG-8071.jpg)
 
-I’m a weirdo — I can literally work from anywhere in the world with just my laptop. I’ve worked from car many times in my career as a software developer. Wherever, whenever, just give me a laptop and a hotspot and we’re good to go.
+I can literally work from anywhere in the world with just my laptop. I’ve worked from car many times in my career as a software developer. Wherever, whenever, just give me a laptop and a hotspot and we’re good to go.
 
-Even though my work space is not typical for a software developer, I’ve made it intentional. It is functional, minimal, and every piece of it has intention to make me successful, both professionally and personal.
+Even though I feel that my work space is not typical for a software developer, I’ve made it intentional. It is functional, minimal, and every piece of it has intention to make me successful, both professionally and personal.
 
 ![](assets/IMG-8075.jpg)
 
