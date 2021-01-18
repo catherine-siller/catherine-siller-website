@@ -15,6 +15,21 @@ const Section = styled.section`
     background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
     background-size: cover;
   }
+
+  .blog-post h1 {
+    background-image: linear-gradient(90deg,#F79533 0%,#F37055 15%,#EF4E7B 30%,#A166AB 44%,#5073B8 58%,#1098AD 72%,#07B39B 86%,#6DBA82 100%);
+  }
+
+  .blog-post h2 {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #0000;
+    background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+    background-size: cover;
+  }
+
+  .blog-post-content p img {
+    width: 100%;
+  }
 `
 
 export default function Template({
