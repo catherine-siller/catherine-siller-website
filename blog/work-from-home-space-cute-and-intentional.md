@@ -13,7 +13,7 @@ Even though I feel that my work space is not typical for a software developer, I
 
 **The chair is uncomfortable af (but so dang cute).**
 
-If you’re like me and gained some weight in 2020 due to the pandemic, you seek activity where you can get it. I’ve been more conscious about not sitting at my desk too long and being active more ihroughout the day. The chair is not necessarily uncomfortable either, but it’s intentional so that I will go on walks more, stand at my kitchen bar, and take breaks more often.
+If you’re like me and gained some weight in 2020 due to the pandemic, you seek activity where you can get it. I’ve been more conscious about not sitting at my desk too long and being active more throughout the day. The chair is not necessarily uncomfortable either, but it’s intentional so that I will go on walks more, stand at my kitchen bar, and take breaks more often.
 
 ![](assets/IMG-8075.jpg)
 
