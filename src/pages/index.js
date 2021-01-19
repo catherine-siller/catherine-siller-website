@@ -5,7 +5,7 @@ import SVG from 'react-inlinesvg'
 import BlogRoll from '../components/BlogRoll'
 import GithubIcon from '../assets/svg/github.svg'
 import LinkedinIcon from '../assets/svg/linkedin.svg'
-import TwitterIcon from '../assets/svg/twitter.svg'
+//import TwitterIcon from '../assets/svg/twitter.svg'
 import favicon from '../assets/images/favicon.ico'
 
 const TopLine = styled.div`
@@ -19,9 +19,8 @@ const TopLine = styled.div`
 
 const Section = styled.section`
   font-family: work sans;
-  margin: 0 auto;
+  margin: 48px auto;
   max-width: 700px;
-  padding-top: 24px;
   width: 100%;
 
   > div.top {

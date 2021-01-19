@@ -4,9 +4,8 @@ import { Link, graphql } from 'gatsby'
 
 const Section = styled.section`
   font-family: work sans;
-  margin: 0 auto;
+  margin: 48px auto;
   max-width: 700px;
-  padding-top: 24px;
   width: 100%;
 
   .button {
