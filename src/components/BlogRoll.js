@@ -39,13 +39,13 @@ class BlogRoll extends React.Component {
                 <Header>
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title"
                       to={post.frontmatter.path}
                     >
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                    <span className="subtitle">
                       {post.frontmatter.date}
                     </span>
                   </p>
