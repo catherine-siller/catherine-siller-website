@@ -1,7 +1,7 @@
 ---
 path: >-
   /top-3-uncomfortable-things-ive-done-during-a-interview-as-a-software-developer
-date: 2021-01-19T02:38:46.036Z
+date: 2021-01-20T02:38:46.036Z
 title: Top 3 Uncomfortable Things I’ve Done in a Software Developer Interview
 ---
 ## Asked for a moment to take a breath and regroup
