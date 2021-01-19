@@ -11,19 +11,19 @@ I can literally work from anywhere in the world with just my laptop. I’ve work
 
 Even though I feel that my work space is not typical for a software developer, I’ve made it intentional. It is functional, minimal, and every piece of it has intention to make me successful, both professionally and personal. Here are some ways that I'm intentional with my work space at home.
 
-**The chair is uncomfortable af (but so dang cute).**
+## **The chair is uncomfortable af (and so dang cute).**
 
 If you’re like me and gained some weight in 2020 due to the pandemic, you seek activity where you can get it. I’ve been more conscious about not sitting at my desk too long and being active more throughout the day. The chair is not necessarily uncomfortable either, but it’s intentional so that I will go on walks more, stand at my kitchen bar, and take breaks more often.
 
 ![](assets/IMG-8075.jpg)
 
-**I need fidgets around to refocus throughout the day.**
+## **I need fidgets around to refocus throughout the day.**
 
 I context switch A TON at work. If you’re someone who is constantly getting Slacks and bouncing around from subject to subject, it can be challenging to refocus so that you can actually get shit done and code. When I need to recenter, I’ll grab a crystal and breathe for a few minutes to recenter and focus on task at hand.
 
 ![](assets/IMG-8073.jpg)
 
-**Inspirational notes and toys can bring positivity to the day.**
+## **Inspirational notes and toys can bring positivity to the day.**
 
 I think any positive reminders we can have throughout the day, help. My boss suggested that instead of when you say “I have to” replace it with “I get to”; so I wrote it down on a post it note and put in on my monitor. Throughout the day I remind myself of that saying so I get into the habit of saying “I get to”. This year has been a lot of “I have to-s” and not very fun ones — so this has helped even with my personal life.
 
