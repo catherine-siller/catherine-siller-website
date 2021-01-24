@@ -5,7 +5,6 @@ import SVG from 'react-inlinesvg'
 import BlogRoll from '../components/BlogRoll'
 import GithubIcon from '../assets/svg/github.svg'
 import LinkedinIcon from '../assets/svg/linkedin.svg'
-import TwitterIcon from '../assets/svg/twitter.svg'
 import favicon from '../assets/images/favicon.ico'
 
 const TopLine = styled.div`
@@ -23,6 +22,10 @@ const Section = styled.section`
   max-width: 700px;
   padding-top: 24px;
   width: 100%;
+
+  .is-parent {
+    margin-bottom: 64px;
+  }
 
   > div.top {
     display: block;

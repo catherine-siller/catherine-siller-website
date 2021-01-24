@@ -30,6 +30,10 @@ const Section = styled.section`
   .blog-post-content p img {
     width: 100%;
   }
+
+  article {
+    margin: 64px 0;
+  }
 `
 
 export default function Template({
