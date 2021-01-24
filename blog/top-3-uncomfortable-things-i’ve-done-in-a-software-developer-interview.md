@@ -6,7 +6,7 @@ title: Top 3 Uncomfortable Things I’ve Done in a Software Developer Interview
 ---
 ## And yes, there are more uncomfortable things that I've done in an interview, these are just the top 3.
 
-Interviewing as a Software Developer is unlike other jobs with code assignments, code reviews, and unexpected requests to code on the spot. The more you do the more you will get used to. Also, you'll know what to expect and the correct questions to ask prior to an interview (hopefully) with these tips.
+Interviewing as a aoftware developer is unlike other jobs because of the code assignments, code reviews, and unexpected requests to code on the spot. The more interviews you do the more you will be better prepared. Also, you'll know what to expect and the correct questions to ask prior to an interview (hopefully) so that you can be prepared.
 
 ## Asked for a moment to take a breath and regroup
 
