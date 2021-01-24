@@ -4,6 +4,10 @@ path: >-
 date: 2021-01-20T02:38:46.036Z
 title: Top 3 Uncomfortable Things I’ve Done in a Software Developer Interview
 ---
+## And yes, there are more uncomfortable things that I've done in an interview, these are just the top 3.
+
+Interviewing as a Software Developer is unlike other jobs with code assignments, code reviews, and unexpected requests to code on the spot. The more you do the more you will get used to. Also, you'll know what to expect and the correct questions to ask prior to an interview (hopefully) with these tips.
+
 ## Asked for a moment to take a breath and regroup
 
 Hard to admit but yes, for the interview for my current role, I asked for a moment to take a breath. I felt like I was jumping at answering every single question quickly the moment the question ended by the interviewers. I didn’t feel like myself, I felt like a robot. Most importantly, my mind was racing so fast, I wasn’t truly taking a moment to take in the question and think about a true, reflective answer that properly represented my experience. I try to be honest in interview because I like to make sure that the company and role is a good fit for myself, my lifestyle, and my growth as a professional. So yes, totally take a moment to have a breath and regroup to get a clear mind and truly feel like myself when answering the questions.
