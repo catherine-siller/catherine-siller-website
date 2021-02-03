@@ -20,9 +20,13 @@ const TopLine = styled.div`
 const Section = styled.section`
   font-family: work sans;
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 800px;
   padding-top: 24px;
   width: 100%;
+
+  article {
+    margin-bottom: 64px;
+  }
 
   > div.top {
     display: block;
