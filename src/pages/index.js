@@ -24,6 +24,10 @@ const Section = styled.section`
   padding-top: 24px;
   width: 100%;
 
+  article {
+    margin-bottom: 64px;
+  }
+
   > div.top {
     display: block;
     margin: 24px auto 0;
