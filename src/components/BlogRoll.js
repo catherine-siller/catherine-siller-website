@@ -10,6 +10,10 @@ const Header = styled.header`
     background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
     background-size: cover;
   }
+
+  .subtitle {
+    display: block;
+  }
 `
 
 const Body = styled.p`
@@ -44,7 +48,6 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
                     <span className="subtitle">
                       {post.frontmatter.date}
                     </span>
