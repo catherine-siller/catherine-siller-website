@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {Helmet} from "react-helmet";
 import SVG from 'react-inlinesvg'
-import BlogRoll from '../components/BlogRoll'
+import Projects from '../components/Projects'
 import GithubIcon from '../assets/svg/github.svg'
 import LinkedinIcon from '../assets/svg/linkedin.svg'
 import favicon from '../assets/images/favicon.ico'
@@ -121,14 +121,15 @@ export default () => {
             <SVG src={LinkedinIcon} />
           </a>
           <h1>Hi! I'm Catherine</h1>
-          <h2>Front end web developer <a href="https://www.mailgun.com/" target="_blank" rel="noreferrer">@mailgun</a>, previously @rackspace. I love all things web that are modern, fast, and pretty. Just trying to keep it cute on the web and irl.</h2>
+          <h2>Front end software developer currently <a href="https://twitter.com/hulu" target="_blank" rel="noreferrer">@Hulu</a>, previously @Mailgun. I love all things web that are modern, fast, and pretty. Keeping it cute on the web and irl.</h2>
+          <h2>Currently accepting freelance projects, <a href="mailto:catsiller12@gmail.com">email me!</a></h2>
         </div>
       </Section>
 
       <Section>
-        <h1>Latest Posts</h1>
+        <h1>Projects</h1>
         <div className="content">
-          <BlogRoll />
+          <Projects />
         </div>
       </Section>
     </React.Fragment>
